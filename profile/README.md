@@ -35,5 +35,5 @@ noop is active on [Mastodon](https://chaos.social/@noop). Video tutorials can be
 
 OpenAleph Explore: an Obsidian Plug-in is funded by the German **Federal Ministry of Research, Technology and Space (BMFTR)** through the **[Prototype Fund](https://prototypefund.de)** under funding code (Förderkennzeichen) **16IS26S15**.
 
-<img src="src/assets/bmftr-funding.png" alt="Funded by the German Federal Ministry of Research, Technology and Space (BMFTR)" width="200">
-<img src="src/assets/prototype-fund-en.png" alt="Funded through the Prototype Fund" width="200">
+<img src="assets/bmftr-funding.png" alt="Funded by the German Federal Ministry of Research, Technology and Space (BMFTR)" width="200">
+<img src="assets/prototype-fund-en.png" alt="Funded through the Prototype Fund" width="200">
