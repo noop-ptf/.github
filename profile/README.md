@@ -29,7 +29,7 @@ As of December 2026, the noop plug-ins are maintained by [The Data and Research 
 
 ## Social media
 
-noop is active on [Mastodon](https://chaos.social/@noop). Video tutorials can be found on the [slow_tech](https://tube.flokinet.is/c/slow_tech/videos) PeerTube channel, maintained by [catileptic](https://chaos.social/@catileptic).
+noop is active on <a rel="me" href="https://chaos.social/@noop">Mastodon</a>. Video tutorials can be found on the [slow_tech](https://tube.flokinet.is/c/slow_tech/videos) PeerTube channel, maintained by [catileptic](https://chaos.social/@catileptic).
 
 ## Sponsor
 
